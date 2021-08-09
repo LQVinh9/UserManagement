@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/src/java/filter/FilterMainController.java</file>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/web/error.jsp</file>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/web/login.jsp</file>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/src/java/controller/LogoutController.java</file>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/web/edit.jsp</file>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/web/insert.jsp</file>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/src/java/dto/History.java</file>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/web/css/styles.css</file>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/src/java/controller/SubController.java</file>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/src/java/controller/UpdateController.java</file>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/src/java/dao/UserDao.java</file>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/src/java/dao/HistoryDao.java</file>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/web/welcome.jsp</file>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/web/admin.jsp</file>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/src/java/dto/ErrorUser.java</file>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/src/java/util/ContextListenerLog4J.java</file>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/web/history.jsp</file>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/src/java/dto/User.java</file>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/web/promotion.jsp</file>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/src/java/util/DBUtil.java</file>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/web/WEB-INF/log4j.properties</file>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/src/java/controller/InsertController.java</file>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/web/sub.jsp</file>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/src/java/controller/AdminController.java</file>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/src/java/controller/LoginController.java</file>
+            <file>file:/C:/Users/Vinh/Documents/NetBeansProjects/J3.L.P0017/web/historyAdmin.jsp</file>
+        </group>
+    </open-files>
+</project-private>
