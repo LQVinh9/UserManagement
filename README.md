@@ -29,7 +29,7 @@
   
  ### Some images of the application:
  
-  <img src="https://github.com/LQVinh9/UserManagement/blob/main/image/image1.png" width="60%" height="60%">
+  <img src="https://github.com/LQVinh9/UserManagement/blob/main/image/image1.png" width="80%" height="80%">
   <br />
   <hr />
   <br />
