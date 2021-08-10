@@ -24,7 +24,7 @@
   - Login with Google account
   
  ### Some images of the application:
-  <img src="https://github.com/LQVinh9/ResourceSharing/blob/main/image/image1.JPG" width="60%" height="60%">
+  <img src="https://github.com/LQVinh9/UserManagement/blob/main/image/image1.JPG" width="60%" height="60%">
   <br />
   <hr />
   <br />
