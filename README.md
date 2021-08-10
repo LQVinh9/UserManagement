@@ -2,7 +2,7 @@
  
  *The application was developed on June 30, 2021*
  
- <img src="https://img.shields.io/badge/build-passing-brightgreen"> <img src="https://img.shields.io/badge/size-3.71%20MB-blue"> <img src="https://img.shields.io/badge/language-java-orange">
+ <img src="https://img.shields.io/badge/build-passing-brightgreen"> <img src="https://img.shields.io/badge/size-2.46%20MB-blue"> <img src="https://img.shields.io/badge/language-java-orange">
  
  User management website application.
  
