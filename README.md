@@ -4,6 +4,8 @@
  
  <img src="https://img.shields.io/badge/build-passing-brightgreen"> <img src="https://img.shields.io/badge/size-2.46%20MB-blue"> <img src="https://img.shields.io/badge/language-java-orange">
  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/LQVinh9/UserManagement?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/LQVinh9/UserManagement?style=social)
+ 
  User management website application.
  
  Techs: Java EE 8, HTML/CSS/JS, Bootstrap, SQLServer, MVC, NetBeans8.2
