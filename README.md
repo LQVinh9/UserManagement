@@ -2,9 +2,7 @@
  
  *The application was developed on June 30, 2021*
  
- <img src="https://img.shields.io/badge/build-passing-brightgreen"> <img src="https://img.shields.io/badge/size-2.46%20MB-blue"> <img src="https://img.shields.io/badge/language-java-orange">
- 
-  ![GitHub Repo stars](https://img.shields.io/github/stars/LQVinh9/UserManagement?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/LQVinh9/UserManagement?style=social)
+ ![GitHub Repo stars](https://img.shields.io/github/stars/LQVinh9/UserManagement?style=social)  <img src="https://img.shields.io/badge/build-passing-brightgreen"> <img src="https://img.shields.io/badge/size-2.46%20MB-blue"> <img src="https://img.shields.io/badge/language-java-orange"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLQVinh9%2FUserManagement&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
  User management website application.
  
