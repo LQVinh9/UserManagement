@@ -4,26 +4,29 @@
  
  <img src="https://img.shields.io/badge/build-passing-brightgreen"> <img src="https://img.shields.io/badge/size-3.71%20MB-blue"> <img src="https://img.shields.io/badge/language-java-orange">
  
- Enterprise resource sharing website application.
+ User management website application.
  
  Techs: Java EE 8, HTML/CSS/JS, Bootstrap, SQLServer, MVC, NetBeans8.2
  
  ### Purpose of the software:
-  - The application helps to control borrowing in the company. 
-  - Company employees can easily borrow company supplies. 
-  - Admin can easily control and approve employee requests.
+  - User management is the core functionality of any web application.
+  - Web application helps admin can easily manage users.
+  - Admin can add users and update user information.
+  - Basic users can update their own information.
+  - Users can get promotions granted by admin.
+  - Support users to view history as well as promotion information.
   
  ### Features of the application:
   - Login
-  - Display- Search
-  - Create new account
-  - Booking
-  - Request process
-  - Request history
-  - Store database on Amazon web service
-  - Login with Google account
+  - Search user
+  - Delete user
+  - Update user
+  - Insert user
+  - Assign user to promotion list
+  - Promotion history
   
  ### Some images of the application:
+ 
   <img src="https://github.com/LQVinh9/UserManagement/blob/main/image/image1.png" width="60%" height="60%">
   <br />
   <hr />
